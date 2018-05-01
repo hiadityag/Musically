@@ -26,7 +26,7 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Musically.com</h1>
-								<p>A fully responsive Music site designed by <a href="https://www.facebook.com/hiadityag"><strong>Aditya Gupta</strong></a>
+								<p>A fully responsive Music site designed by <a href="https://www.facebook.com/honey.brijwasi"><strong>Shailendra Brijwasi</strong></a>
 								</p>
 								<hr>
 							<nav>
@@ -64,7 +64,7 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>This website is designed by Aditya Gupta</p>
+								<p>This website is designed by Shailendra Brijwasi</p>
 							</article>
 
 						<!-- Contact -->
